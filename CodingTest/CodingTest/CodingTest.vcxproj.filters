@@ -1,0 +1,109 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Level1">
+      <UniqueIdentifier>{0d834679-ff77-4a6f-9acb-7ee1ea422cb9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Level2">
+      <UniqueIdentifier>{9454b3a5-7632-418e-b291-f3b4e54e6e66}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="12906.cpp">
+      <Filter>Level1</Filter>
+    </ClCompile>
+    <ClCompile Include="86051.cpp">
+      <Filter>Level1</Filter>
+    </ClCompile>
+    <ClCompile Include="70128.cpp">
+      <Filter>Level1</Filter>
+    </ClCompile>
+    <ClCompile Include="12977.cpp">
+      <Filter>Level1</Filter>
+    </ClCompile>
+    <ClCompile Include="12982.cpp">
+      <Filter>Level1</Filter>
+    </ClCompile>
+    <ClCompile Include="68644.cpp">
+      <Filter>Level1</Filter>
+    </ClCompile>
+    <ClCompile Include="12901.cpp">
+      <Filter>Level1</Filter>
+    </ClCompile>
+    <ClCompile Include="87389.cpp">
+      <Filter>Level1</Filter>
+    </ClCompile>
+    <ClCompile Include="82612.cpp">
+      <Filter>Level1</Filter>
+    </ClCompile>
+    <ClCompile Include="12903.cpp">
+      <Filter>Level1</Filter>
+    </ClCompile>
+    <ClCompile Include="12912.cpp">
+      <Filter>Level1</Filter>
+    </ClCompile>
+    <ClCompile Include="12916.cpp">
+      <Filter>Level1</Filter>
+    </ClCompile>
+    <ClCompile Include="12917.cpp">
+      <Filter>Level1</Filter>
+    </ClCompile>
+    <ClCompile Include="12918.cpp">
+      <Filter>Level1</Filter>
+    </ClCompile>
+    <ClCompile Include="12922.cpp">
+      <Filter>Level1</Filter>
+    </ClCompile>
+    <ClCompile Include="12925.cpp">
+      <Filter>Level1</Filter>
+    </ClCompile>
+    <ClCompile Include="12928.cpp">
+      <Filter>Level1</Filter>
+    </ClCompile>
+    <ClCompile Include="12931.cpp">
+      <Filter>Level1</Filter>
+    </ClCompile>
+    <ClCompile Include="12933.cpp">
+      <Filter>Level1</Filter>
+    </ClCompile>
+    <ClCompile Include="12935.cpp">
+      <Filter>Level1</Filter>
+    </ClCompile>
+    <ClCompile Include="12937.cpp">
+      <Filter>Level1</Filter>
+    </ClCompile>
+    <ClCompile Include="12940.cpp">
+      <Filter>Level1</Filter>
+    </ClCompile>
+    <ClCompile Include="12943.cpp">
+      <Filter>Level1</Filter>
+    </ClCompile>
+    <ClCompile Include="12944.cpp">
+      <Filter>Level1</Filter>
+    </ClCompile>
+    <ClCompile Include="12947.cpp">
+      <Filter>Level1</Filter>
+    </ClCompile>
+    <ClCompile Include="12950.cpp">
+      <Filter>Level1</Filter>
+    </ClCompile>
+    <ClCompile Include="12954.cpp">
+      <Filter>Level1</Filter>
+    </ClCompile>
+    <ClCompile Include="12969.cpp">
+      <Filter>Level1</Filter>
+    </ClCompile>
+    <ClCompile Include="42626.cpp">
+      <Filter>Level2</Filter>
+    </ClCompile>
+    <ClCompile Include="87390.cpp">
+      <Filter>Level2</Filter>
+    </ClCompile>
+    <ClCompile Include="12939.cpp">
+      <Filter>Level2</Filter>
+    </ClCompile>
+    <ClCompile Include="12941.cpp">
+      <Filter>Level2</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
