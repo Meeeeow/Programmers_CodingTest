@@ -105,5 +105,11 @@
     <ClCompile Include="12941.cpp">
       <Filter>Level2</Filter>
     </ClCompile>
+    <ClCompile Include="12919.cpp">
+      <Filter>Level1</Filter>
+    </ClCompile>
+    <ClCompile Include="42840.cpp">
+      <Filter>Level1</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
