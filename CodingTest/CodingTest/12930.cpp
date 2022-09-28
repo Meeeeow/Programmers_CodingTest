@@ -1,5 +1,5 @@
 // https://school.programmers.co.kr/learn/courses/30/lessons/12930
-// ÀÌ»óÇÑ ¹®ÀÚ ¸¸µé±â
+// ì´ìƒí•œ ë¬¸ì ë§Œë“¤ê¸°
 
 #include <string>
 #include <vector>
