@@ -7,6 +7,15 @@
     <Filter Include="Level2">
       <UniqueIdentifier>{9454b3a5-7632-418e-b291-f3b4e54e6e66}</UniqueIdentifier>
     </Filter>
+    <Filter Include="고득점 Kit">
+      <UniqueIdentifier>{6c58bb40-f1e8-475a-9565-0230a8a681a9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="고득점 Kit\Hash">
+      <UniqueIdentifier>{e05ea250-5956-4afd-8eb3-cbfcb3f659e6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="고득점 Kit\Sort">
+      <UniqueIdentifier>{6c9bbd75-13e3-4c0e-bc6a-77b52cd5b0d0}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="12906.cpp">
@@ -125,6 +134,24 @@
     </ClCompile>
     <ClCompile Include="12924.cpp">
       <Filter>Level2</Filter>
+    </ClCompile>
+    <ClCompile Include="Hash_42577.cpp">
+      <Filter>고득점 Kit\Hash</Filter>
+    </ClCompile>
+    <ClCompile Include="Hash_1845.cpp">
+      <Filter>고득점 Kit\Hash</Filter>
+    </ClCompile>
+    <ClCompile Include="Hash_42576.cpp">
+      <Filter>고득점 Kit\Hash</Filter>
+    </ClCompile>
+    <ClCompile Include="Hash_42578.cpp">
+      <Filter>고득점 Kit\Hash</Filter>
+    </ClCompile>
+    <ClCompile Include="Sort_42748.cpp">
+      <Filter>고득점 Kit\Sort</Filter>
+    </ClCompile>
+    <ClCompile Include="Sort_42746.cpp">
+      <Filter>고득점 Kit\Sort</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
