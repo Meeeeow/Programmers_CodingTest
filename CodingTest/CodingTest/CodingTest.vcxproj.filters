@@ -16,6 +16,12 @@
     <Filter Include="고득점 Kit\Sort">
       <UniqueIdentifier>{6c9bbd75-13e3-4c0e-bc6a-77b52cd5b0d0}</UniqueIdentifier>
     </Filter>
+    <Filter Include="고득점 Kit\Greedy">
+      <UniqueIdentifier>{3b08b769-40fd-4ee2-abf4-d232d0dcf74d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="고득점 Kit\BFS/DFS">
+      <UniqueIdentifier>{fb868cba-91f6-4408-9bdd-0c29a4c1e483}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="12906.cpp">
@@ -152,6 +158,21 @@
     </ClCompile>
     <ClCompile Include="Sort_42746.cpp">
       <Filter>고득점 Kit\Sort</Filter>
+    </ClCompile>
+    <ClCompile Include="Greedy_42862.cpp">
+      <Filter>고득점 Kit\Greedy</Filter>
+    </ClCompile>
+    <ClCompile Include="12934.cpp">
+      <Filter>Level1</Filter>
+    </ClCompile>
+    <ClCompile Include="Greedy_42860.cpp">
+      <Filter>고득점 Kit\Greedy</Filter>
+    </ClCompile>
+    <ClCompile Include="BFS_1844.cpp">
+      <Filter>고득점 Kit\BFS/DFS</Filter>
+    </ClCompile>
+    <ClCompile Include="DFS_BFS_43165.cpp">
+      <Filter>고득점 Kit\BFS/DFS</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
