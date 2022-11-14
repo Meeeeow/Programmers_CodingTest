@@ -22,6 +22,12 @@
     <Filter Include="고득점 Kit\BFS/DFS">
       <UniqueIdentifier>{fb868cba-91f6-4408-9bdd-0c29a4c1e483}</UniqueIdentifier>
     </Filter>
+    <Filter Include="고득점 Kit\Stack / Queue">
+      <UniqueIdentifier>{81d06666-1f98-41fb-9b02-97c942ca0272}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="고득점 Kit\Brute-Force">
+      <UniqueIdentifier>{9806b544-ad1c-4be2-94ed-8a7f4400d3ff}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="12906.cpp">
@@ -173,6 +179,21 @@
     </ClCompile>
     <ClCompile Include="DFS_BFS_43165.cpp">
       <Filter>고득점 Kit\BFS/DFS</Filter>
+    </ClCompile>
+    <ClCompile Include="Stack_12909.cpp">
+      <Filter>고득점 Kit\Stack / Queue</Filter>
+    </ClCompile>
+    <ClCompile Include="Queue_42586.cpp">
+      <Filter>고득점 Kit\Stack / Queue</Filter>
+    </ClCompile>
+    <ClCompile Include="Queue_42587.cpp">
+      <Filter>고득점 Kit\Stack / Queue</Filter>
+    </ClCompile>
+    <ClCompile Include="Brute_86491.cpp">
+      <Filter>고득점 Kit\Brute-Force</Filter>
+    </ClCompile>
+    <ClCompile Include="135808.cpp">
+      <Filter>Level1</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
