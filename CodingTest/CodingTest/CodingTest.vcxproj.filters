@@ -28,6 +28,9 @@
     <Filter Include="고득점 Kit\Brute-Force">
       <UniqueIdentifier>{9806b544-ad1c-4be2-94ed-8a7f4400d3ff}</UniqueIdentifier>
     </Filter>
+    <Filter Include="입문">
+      <UniqueIdentifier>{04d42511-5293-45c2-9b37-75eeaa656090}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="12906.cpp">
@@ -194,6 +197,15 @@
     </ClCompile>
     <ClCompile Include="135808.cpp">
       <Filter>Level1</Filter>
+    </ClCompile>
+    <ClCompile Include="120812.cpp">
+      <Filter>입문</Filter>
+    </ClCompile>
+    <ClCompile Include="12951.cpp">
+      <Filter>Level2</Filter>
+    </ClCompile>
+    <ClCompile Include="12945.cpp">
+      <Filter>Level2</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
